@@ -2,13 +2,6 @@
 
 Summarize the case and specifically discuss the legal question being addressed.  Please prepare a one-page summary of the case using the following format:
 
-Case Brief Outline
-  - Case Name
-  - Brief Summary of the facts (please put into your own words)
-  - Legal Question:  What is the legal question at hand?
-  - Decision:  What did the judges decide?
-  - Your Thoughts: Why is this an important case?
-
 Case
   - Kelo v. City of New London 545 U.S. 469
 
