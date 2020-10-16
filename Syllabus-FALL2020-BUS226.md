@@ -56,28 +56,28 @@ See the assignments and schedule below.
 
 Course Summary:
 Date	Details
-Tue Sep 22, 2020	Assignment Discussion | Legal Environment	due by 11pm
-Thu Sep 24, 2020	Assignment Discussion | The Constitution	due by 11pm
-Sun Sep 27, 2020	Assignment Individual Assignment | Federalism & The Commerce Clause	due by 11pm
-Tue Sep 29, 2020	Assignment Discussion | Bill of Rights	due by 11pm
-Thu Oct 1, 2020	Assignment Discussion | More Rights?	due by 11pm
-Sun Oct 4, 2020	Assignment Individual Assignment | Business Formation	due by 11pm
-Tue Oct 6, 2020	Assignment Exam #1 | Legal Environment, Constitution, Bus Forms	due by 11pm
-Thu Oct 8, 2020	Assignment Discussion | Agency Relationships	due by 11pm
-Sun Oct 11, 2020	Assignment Individual Assignment | Employment Law	due by 11pm
-Tue Oct 13, 2020	Assignment Discussion | Employment Discrimination	due by 11pm
-Thu Oct 15, 2020	Assignment Individual Assignment | Landmark Case	due by 11pm
-Sun Oct 18, 2020	Assignment Exam #2 | Agency & Employment Law	due by 11pm
-Tue Oct 20, 2020	Assignment Individual Assignment | Do we have a deal?	due by 11pm
-Thu Oct 22, 2020	Assignment Discussion | More Contracts	due by 11pm
-Sun Oct 25, 2020	Assignment Individual Assignment | Damages	due by 11pm
-Tue Oct 27, 2020	Assignment Discussion | UCC	due by 11pm
-Thu Oct 29, 2020	Assignment Discussion | In the News	due by 11pm
-Sun Nov 1, 2020	Assignment Exam #3 | Contracts & Warranties	due by 11pm
-Tue Nov 3, 2020	Assignment Discussion | Criminal Law	due by 11pm
-Sun Nov 8, 2020	Assignment Individual Assignment | Influence the Law	due by 11pm
-Tue Nov 10, 2020	Assignment Discussion | McDonald's Hot Coffee	due by 11pm
-Sun Nov 15, 2020	Assignment Individual Activity | Jaws	due by 11pm
-Tue Nov 17, 2020	Assignment Individual Activity | Film - A Civil Action	due by 11pm
-Sun Nov 22, 2020	Assignment Individual Assignment | Legal Film Analysis- A Civil Action	due by 11pm
-Thu Dec 3, 2020	Assignment Individual Assignment | Course Evaluation	due by 11pm
+- Tue Sep 22, 2020	Assignment Discussion | Legal Environment	due by 11pm
+- Thu Sep 24, 2020	Assignment Discussion | The Constitution	due by 11pm
+- Sun Sep 27, 2020	Assignment Individual Assignment | Federalism & The Commerce Clause	due by 11pm
+- Tue Sep 29, 2020	Assignment Discussion | Bill of Rights	due by 11pm
+- Thu Oct 1, 2020	Assignment Discussion | More Rights?	due by 11pm
+- Sun Oct 4, 2020	Assignment Individual Assignment | Business Formation	due by 11pm
+- Tue Oct 6, 2020	Assignment Exam #1 | Legal Environment, Constitution, Bus Forms	due by 11pm
+- Thu Oct 8, 2020	Assignment Discussion | Agency Relationships	due by 11pm
+- Sun Oct 11, 2020	Assignment Individual Assignment | Employment Law	due by 11pm
+- Tue Oct 13, 2020	Assignment Discussion | Employment Discrimination	due by 11pm
+- Thu Oct 15, 2020	Assignment Individual Assignment | Landmark Case	due by 11pm
+- Sun Oct 18, 2020	Assignment Exam #2 | Agency & Employment Law	due by 11pm
+- Tue Oct 20, 2020	Assignment Individual Assignment | Do we have a deal?	due by 11pm
+- Thu Oct 22, 2020	Assignment Discussion | More Contracts	due by 11pm
+- Sun Oct 25, 2020	Assignment Individual Assignment | Damages	due by 11pm
+- Tue Oct 27, 2020	Assignment Discussion | UCC	due by 11pm
+- Thu Oct 29, 2020	Assignment Discussion | In the News	due by 11pm
+- Sun Nov 1, 2020	Assignment Exam #3 | Contracts & Warranties	due by 11pm
+- Tue Nov 3, 2020	Assignment Discussion | Criminal Law	due by 11pm
+- Sun Nov 8, 2020	Assignment Individual Assignment | Influence the Law	due by 11pm
+- Tue Nov 10, 2020	Assignment Discussion | McDonald's Hot Coffee	due by 11pm
+- Sun Nov 15, 2020	Assignment Individual Activity | Jaws	due by 11pm
+- Tue Nov 17, 2020	Assignment Individual Activity | Film - A Civil Action	due by 11pm
+- Sun Nov 22, 2020	Assignment Individual Assignment | Legal Film Analysis- A Civil Action	due by 11pm
+- Thu Dec 3, 2020	Assignment Individual Assignment | Course Evaluation	due by 11pm
